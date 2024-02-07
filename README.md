@@ -32,4 +32,7 @@ This project is a backend application for an eCommerce platform. It provides API
 ├── seeds/ # Seed files for sample data
 └── server.js # Entry point
 
-## Images
+## GET Walkthrough 
+![Untitled_ Feb 7, 2024 8_14 AM](https://github.com/Bdoherty1/eCommerceBackendDev/assets/153238486/dca6c322-e4e6-487e-904b-1e383e23b1f5)
+
+
